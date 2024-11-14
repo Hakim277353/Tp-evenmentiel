@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Calculatriceavencee", "Calculatriceavencee.vbproj", "{405E901E-3CC2-45B4-AC45-2CA8F1B43E7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{405E901E-3CC2-45B4-AC45-2CA8F1B43E7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405E901E-3CC2-45B4-AC45-2CA8F1B43E7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405E901E-3CC2-45B4-AC45-2CA8F1B43E7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405E901E-3CC2-45B4-AC45-2CA8F1B43E7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CA61F75-5E19-4833-A64A-5809D6D436B2}
+	EndGlobalSection
+EndGlobal
